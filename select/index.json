@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "先生に言っちゃお (Cover)",
+  "base_artist": "Hanon",
+  "createdAt": "2025-12-28T09:20:01.297862Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "先生に言っちゃお (Cover)",
+      "artist": "Hanon",
+      "has_synced": false,
+      "path": "select/pl_01_先生に言っちゃお_(Cover)_Hanon.txt"
+    }
+  ]
+}
